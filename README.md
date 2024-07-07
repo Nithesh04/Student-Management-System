@@ -19,5 +19,5 @@ Using MySQL Workbench we can dispay and manage the database to the admin or the 
 # Demo Images
 #### Login Page
 ![Screenshot 2024-06-26 143303](https://github.com/NitheshLatha/Student-Management-System/assets/158061090/1bdc0d3f-5492-4e99-83af-f3bb5ce3c84f)
-
+#### S.M.S
 ![Screenshot 2024-06-26 143404](https://github.com/NitheshLatha/Student-Management-System/assets/158061090/62c5fd99-4faa-4fcd-b39b-96211f0a5c4d)
