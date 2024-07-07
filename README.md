@@ -1,9 +1,9 @@
 # Student-Management-System
-Student Management System Project #
-Student Management System Project using Mysql database.#
+* Student Management System Project 
+* Student Management System Project using Mysql database.
 # Major features of this Project
-*Implemented user as well as admin login / Sign Up
-*Admin can add or delete student details
+* Implemented user as well as admin login / Sign Up
+* Admin can add or delete student details
 # How To Run 
 * Run pip-install flask
 * pip-install Flask-SQLAlchemy
