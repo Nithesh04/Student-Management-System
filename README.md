@@ -13,7 +13,7 @@
 # Database
 Using MySQL Workbench we can dispay and manage the database to the admin or the account handler
 
-*a MySQL instance up and runnning on localhost
-*a MySql user having root : root password:
-*a database named "students"
+* a MySQL instance up and runnning on localhost
+* a MySql user having root : root password:
+* a database named "students"
 # Demo Images
