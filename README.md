@@ -1,6 +1,6 @@
 # Student-Management-System
-Student Management System Project 
-Student Management System Project using Mysql database.
+1.Student Management System Project 
+2.Student Management System Project using Mysql database.
 # Major features of this Prohject
 Implemented user as well as admin login / Sign Up
 Admin can add or delete student details
